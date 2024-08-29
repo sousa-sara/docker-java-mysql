@@ -1,0 +1,16 @@
+br\com\javamysql\service\UserService.class
+br\com\javamysql\controller\UserController.class
+br\com\javamysql\service\AddressService.class
+br\com\javamysql\service\AddressServiceImpl.class
+br\com\javamysql\entity\User.class
+br\com\javamysql\JavaMysqlApplication.class
+br\com\javamysql\entity\Address.class
+br\com\javamysql\controller\WordController.class
+br\com\javamysql\controller\AddressController.class
+br\com\javamysql\service\WordServiceImpl.class
+br\com\javamysql\entity\Student.class
+br\com\javamysql\entity\Word.class
+br\com\javamysql\service\WordService.class
+br\com\javamysql\repository\AddressRepository.class
+br\com\javamysql\repository\UserRepository.class
+br\com\javamysql\repository\WordRepository.class
